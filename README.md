@@ -51,6 +51,7 @@ https://www.youtube.com/watch?v=4MxLs7mYc54
 
 Git add .arquivo (manda pra Staged)
 git diff .arquivo (mostra o que foi alterado no arquivo)
+aperta "q" para sair do git diff
 Git commit -m "mensagem" (comita)
 
 _______________________________________________________________
@@ -80,3 +81,4 @@ git pull
 (puxa tudo do repositório e sobreescreve no nosso código)
 
 git fetch
+(baixa tudo que tem no repositório, mas não sobreescreve. Assim da pra verificar com o git diff oq foi alterado )
