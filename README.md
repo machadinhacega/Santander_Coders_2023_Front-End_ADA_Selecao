@@ -77,3 +77,6 @@ git push origin main
 (main: a branch q esta sendo trabalhada)
 
 git pull
+(puxa tudo do repositório e sobreescreve no nosso código)
+
+git fetch
