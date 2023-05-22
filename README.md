@@ -82,3 +82,5 @@ git pull
 
 git fetch
 (baixa tudo que tem no repositório, mas não sobreescreve. Assim da pra verificar com o git diff oq foi alterado )
+
+[a aula 8 é basicamente falando de github]
