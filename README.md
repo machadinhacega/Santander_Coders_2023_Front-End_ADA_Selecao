@@ -120,4 +120,10 @@ git log --oneline --decorate
 (lembrar de apertar "q" para sair)
 
 
+_______________________________________________________________
+
+
+### Aula 10 - Merging branches
+https://www.youtube.com/watch?v=TFBWfHw7ohs
+
 
