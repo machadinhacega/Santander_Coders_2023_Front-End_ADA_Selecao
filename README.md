@@ -61,6 +61,7 @@ git restore --staged ()
 ### Aula 07 - Repositórios remotos
 https://www.youtube.com/watch?v=0th6FUR2EN4
 
+git push
 
 
 
