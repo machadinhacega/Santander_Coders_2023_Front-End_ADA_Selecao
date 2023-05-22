@@ -76,4 +76,4 @@ git push origin main
 (origin: o repositorio remoto)
 (main: a branch q esta sendo trabalhada)
 
-
+git pull
