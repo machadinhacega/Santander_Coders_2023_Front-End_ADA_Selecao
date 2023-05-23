@@ -18,13 +18,15 @@ _______________________________________________________________
 ### Aula 02 | Criando a primeira página
 https://www.youtube.com/watch?v=_fjPh8cdfHE
 
+! + TAB (no vs code)
+(já estrutura o esqueleto do html )
 
 
 _______________________________________________________________
 
 
-### Aula 03 | 
-https://www.youtube.com/
+### Aula 03 | Principais Tags HTML (Parte I)
+https://www.youtube.com/watch?v=shqpHTk6Y9E
 
 
 
