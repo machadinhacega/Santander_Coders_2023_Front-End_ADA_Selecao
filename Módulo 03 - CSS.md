@@ -11,29 +11,29 @@ https://www.youtube.com/watch?v=Go8bf1dxuAk
 _______________________________________________________________
 
 
-### Aula 02 | 
-https://www.youtube.com
+### Aula 02 | Cores, Background e Textos
+https://www.youtube.com/watch?v=M7qUEQUUAUA
 
 
 _______________________________________________________________
 
 
-### Aula 03 | 
-https://www.youtube.com
+### Aula 03 | Fontes, Medidas e Links
+https://www.youtube.com/watch?v=jyURC13tSr4
 
 
 _______________________________________________________________
 
 
-### Aula 04 | 
-https://www.youtube.com
+### Aula 04 | Listas, Tabelas, Box Model e Display
+https://www.youtube.com/watch?v=UVsgSfvgozc
 
 
 _______________________________________________________________
 
 
-### Aula 05 | 
-https://www.youtube.com
+### Aula 05 | Position e Introdução à Flexbox
+https://www.youtube.com/watch?v=Ke_ll9wLA7c
 
 
 _______________________________________________________________
@@ -41,28 +41,78 @@ _______________________________________________________________
 
 ### Exercício 
 
+06. Exercício I
+Questão 1 -Selecione a alternativa que representa todos os seletores básicos.
+• tag, classe, id, universais e atributo.
+• tag, classe, id e atributo.
+• tag, classe e id.
+• id, classe e tag.
+• classe, universais e tag.
+
+Questão 2 -Selecione a alternativa que correta completamente a lacuna deixada no código e que faça com que todos os elementos com a classe 'fundo-preto' tenham alteração do bloco css abaixo.
+• _____fundo-preto {
+    background-color: black;
+}
+• #
+• *
+• .
+• ;
+
+Questão 3 -Selecione a afirmativa correta com base no código abaixo.
+• input[type='text'] {
+  color: red;
+}
+• O seletor que está sendo utilizado para aplicar o estilo de cor é o de classe.
+• O seletor que está sendo utilizado para aplicar o estilo de cor é o de atributo.
+• O seletor que está sendo utilizado para aplicar o estilo de cor é o de tag.
+• O seletor que está sendo utilizado para aplicar o estilo de cor é o de id.
+• O seletor que está sendo utilizado para aplicar o estilo de cor é o universal.
+
+Questão 4 -O bloco de código css abaixo, está utilizando o tipo de seletor:
+• .classe-inventada > div { 
+    color: black;
+}
+• aninhado.
+• aninhado de um nível.
+• atributo.
+• classe.
+
+Questão 5 -Selecione a alternativa que não representa uma pseudo-classe.
+• hover
+• active
+• checked
+• clicked
+• disabled
+
+
+[ A • A(C?) • B  • E • D ]
+
+O seletor universal do CSS (*) aplica estilos a elementos de qualquer tipo.
+O seletor de atributos combina elementos baseado no valor de um atributo dado.
+O seletor TAG (p{})
+_______________________________________________________________
+
+
+### Aula 06 | Flexbox e Alinhamentos
+https://www.youtube.com/watch?v=I3zHWX2HS8I
+
+CSS tricks Flexbox
 
 _______________________________________________________________
 
 
-### Aula 06 | 
-https://www.youtube.com
+### Aula 07 | Seletores, Responsividade e Animações
+https://www.youtube.com/watch?v=hXIbdGn3rDQ
 
 
 _______________________________________________________________
 
 
-### Aula 07 | 
-https://www.youtube.com
+### Aula 08 | Grid Layout e Unidade "fr"
+https://www.youtube.com/watch?v=BBHceOkohsA
 
-
-_______________________________________________________________
-
-
-### Aula 08 | 
-https://www.youtube.com
-
-
+CSS tricks GRID
+https://css-tricks.com/snippets/css/complete-guide-grid/
 _______________________________________________________________
 
 

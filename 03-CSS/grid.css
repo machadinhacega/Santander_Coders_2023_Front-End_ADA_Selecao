@@ -1,0 +1,105 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+
+body {
+    font-family: Nunito;
+    text-align: justify;
+
+    font-size: 1.7rem;
+
+}
+
+
+.boxes{
+    /* border: 1px solid red; */
+    height: calc(100vh);
+    position: relative;
+
+    display: grid;
+    justify-content: flex-start;
+
+    gap: 2rem 5rem;
+    /* 1 unidade flexivel na 1ª e 1unidade na 2ª */
+    grid-template-columns: 1fr 1fr;
+
+    /* grid-template-rows: minmax(150px, 1fr) 2fr ; */
+    grid-template-rows: repeat(3, 1fr);
+
+
+}
+
+.box{
+    width: 150px;
+
+    background-color: #22ad8b;
+    border:2px solid #000;
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+
+
+
+#main-container {
+    border: 2px solid red;
+    height: 100vh;
+}
+
+button{
+    width: 50rem;
+    height: 3rem;
+}
+
+
+
+#titulinho, #footerzinho, #loginzinho{
+    border: 1px solid #22ad8b;
+}
+
+#titulinho {
+    color: #22ad8b;
+    text-transform: capitalize;
+    font-family: Roboto;
+    font-size: 7rem ;
+
+    /* grid area */
+    grid-area: titulo;
+}
+
+#footerzinho{
+    background-color: aqua;
+    height: 10rem;
+
+    /* grid area */
+    grid-area: footer;
+}
+
+#loginzinho{
+    font-size: 1.5rem;
+
+    /* grid area */
+    grid-area: login;
+
+}
+
+/* GRID AREAS */
+#main-container {
+    display: grid;
+    
+    grid-template-areas: 
+    ". . . . ."
+    ". titulo login login ."
+    ". titulo login login ."
+    ". . login login ."
+    ". . . . ."
+    "footer footer footer footer footer";
+}
