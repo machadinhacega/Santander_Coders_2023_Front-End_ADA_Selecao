@@ -115,4 +115,67 @@ if (50 > 100) {
 "Quase lá"
 "Sucesso"
 Nenhuma mensagem será exibida.
+
+
 _______________________________________________________________
+
+
+### Aula 07 | Estruturas de Repetição | Laços Condicionais
+https://www.youtube.com/watch?v=1P4pmwbjG1g&t
+
+
+
+_______________________________________________________________
+
+
+### Aula 08 | Estruturas de Repetição | Laços Numéricos
+https://www.youtube.com/watch?v=9E4oYHVv1Ds
+
+
+_______________________________________________________________
+
+
+### Aula 09 | Arrays (Parte I)
+https://www.youtube.com/watch?v=481NonIVTpQ
+
+
+_______________________________________________________________
+
+
+### Aula 10 | Arrays (Parte II)
+https://www.youtube.com/watch?v=rq_gtkTIJMs
+
+
+_______________________________________________________________
+
+
+### Aula 11 | Funções
+https://www.youtube.com/watch?v=i3qrrO__Qsg
+
+
+_______________________________________________________________
+
+
+### Aula 12 | 
+https://www.youtube.com/
+
+
+_______________________________________________________________
+
+
+### Aula 13 | 
+https://www.youtube.com/
+
+
+_______________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
