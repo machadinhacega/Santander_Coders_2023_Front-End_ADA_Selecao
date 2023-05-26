@@ -116,16 +116,18 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 _______________________________________________________________
 
 
-### Aula 09 | 
-https://www.youtube.com
+### Aula 09 | Compilando conceitos e criando um projeto (Parte I)
+https://www.youtube.com/watch?v=kpaibytoIug
 
 
 _______________________________________________________________
 
 
-### Aula 10 | 
-https://www.youtube.com
+### Aula 10 | Compilando conceitos e criando um projeto (Parte II)
+https://www.youtube.com/watch?v=DgUk1ahnEL8
 
+pseudo classes
+https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes
 
 _______________________________________________________________
 
