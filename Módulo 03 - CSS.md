@@ -134,5 +134,40 @@ _______________________________________________________________
 
 ### Exercício 
 
+Questão 1 - Os elementos HTML são representados por caixas (ou boxes) e essas caixas são descritas pelo box model. Existem 4 edges, são elas:
+border, height, width, margin
+box-sizing, border, box-shadow, border-weight
+padding, color, font-size, font-family
+height, max-height, widht, max-width
+border, padding, content, margin
 
+Questão 2 - Em um elemento flex, qual é a propriedade utilizada para alinhar os elementos no eixo principal?
+justify-content
+align-items
+align-contents
+margin
+background
+
+Questão 3 - A propriedade 'transiton-timing-function' é responsável por especificar a curva de velocidade do efeito de transição. Essa propriedade possui alguns valores para modificar o efeito de transição conforme desejado. Sabendo disso, que propriedade pode ser utilizada para aplicar um efeito de transição com uma mesma velocidade do início ao fim?
+ease-in-out
+ease-out
+linear
+ease-in
+ease
+
+Questão 4 - Qual é a propriedade utilizada para configurar uma transição no CSS?
+font-style
+text-decoration
+transition
+text-transform
+background
+
+Questão 5 - É responsável por aplicar um atraso no efeito de transição. Determina o tempo de espera do momento em que uma propriedade é alterada e a transição começa. Essa definição é referente à propriedade:
+transition-duration
+transition-delay
+transition-time
+transition-property
+transition-timing-function
+
+[E • A • C • C • B]
 _______________________________________________________________
