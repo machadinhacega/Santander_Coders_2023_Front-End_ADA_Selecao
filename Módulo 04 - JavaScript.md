@@ -156,15 +156,15 @@ https://www.youtube.com/watch?v=i3qrrO__Qsg
 _______________________________________________________________
 
 
-### Aula 12 | 
-https://www.youtube.com/
+### Aula 12 | Objetos
+https://www.youtube.com/watch?v=eDUZAS3-Xy4
 
 
 _______________________________________________________________
 
 
-### Aula 13 | 
-https://www.youtube.com/
+### Aula 13 | Bônus
+https://www.youtube.com/watch?v=5HmJBEa61vU
 
 
 _______________________________________________________________
