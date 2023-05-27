@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+:root {
+    font-size: 62.5%;
+
+    --bordaV: 1px solid red;
+    --corPrincipal: #FF5678
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+
+aside h1 {
+font-family: 'Roboto';
+font-size: 6.4rem;
+font-weight: 600;
+line-height: 7.5rem;
+}
+
+aside h1 span, main h2 span {
+    color: var(--corPrincipal);
+}
+
+main{
+    border: 1px solid #000;
+    border-radius: 1.2rem; 
+    
+    width: 60rem;
+    height: 52rem;
+    padding: 4.4rem 5.7rem;
+}
+
+
+h2{
+    font-size: 3.6rem;
+    max-width: 43rem;
+    font-weight: 600;
+}
+
+main .actions{
+    display:  flex;
+    flex-flow: column wrap;
+}
+
+
+main .actions a {
+    height: 5.5rem;
+    border-radius: 1.2rem;
+
+    font-size: 2.4rem;
+    text-decoration: none;
+    color: #fff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: #35E6E9;
+}
+
+main .actions a + a {
+    margin-top: 4.8rem;
+    background-color: #FF5678;
+}
+
+
+main footer p {
+    font-size: 1.6rem;
+    margin-top: 5.4rem;
+}
+
+main footer a {
+    margin-top: 1rem;
+    font-size: 1.8rem;
+    text-decoration: none;
+    color: black;
+
+    display: block;
+    text-align: center;
+}
+
+
+aside{
+    grid-area: img;
+}
+
+main{
+    grid-area: form;
+}
+
+.content {
+    display: grid;
+
+    grid-template-areas:
+    ". . . . ."
+    ". img . form ."
+    ". img . form ."
+    ". . . . ."
+    ;
+    gap: 8.5rem;
+}
+
+
