@@ -153,5 +153,7 @@ _______________________________________________________________
 ### Aula 10 - Publicando um site com Vercel
 https://www.youtube.com/watch?v=qqhSHy739dY
 
+https://vercel.com/
+
 
 _______________________________________________________________
